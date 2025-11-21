@@ -1,0 +1,118 @@
+{
+  "surface/light": {},
+  "surface/dark": {
+    "brand": {
+      "complementary": {
+        "dark-alt": {
+          "$type": "color",
+          "$value": "{purple-600}"
+        }
+      }
+    }
+  },
+  "text/light": {
+    "neutral": {
+      "primary": {
+        "$type": "color",
+        "$value": "{neutral-999}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{neutral-500}"
+      }
+    }
+  },
+  "text/dark": {
+    "neutral": {
+      "text-primary": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    }
+  },
+  "colors / core": {
+    "neutral-000": {
+      "$type": "color",
+      "$value": "#fff"
+    },
+    "neutral-050": {
+      "$type": "color",
+      "$value": "#fafafa"
+    },
+    "neutral-100": {
+      "$type": "color",
+      "$value": "#F1F2F2"
+    },
+    "neutral-200": {
+      "$type": "color",
+      "$value": "#e6e6e6"
+    },
+    "neutral-999": {
+      "$type": "color",
+      "$value": "#000"
+    },
+    "neutral-500": {
+      "$type": "color",
+      "$value": "#808080"
+    }
+  },
+  "colors / brand": {
+    "brand-primary-500": {
+      "$type": "color",
+      "$value": "#C12143"
+    },
+    "brand-alt1-600": {
+      "$type": "color",
+      "$value": "#550c2e"
+    },
+    "brand-alt1-500": {
+      "$type": "color",
+      "$value": "#6a0032"
+    },
+    "brand-alt1-700": {
+      "$type": "color",
+      "$value": "#450322"
+    },
+    "brand-alt2-500": {
+      "$type": "color",
+      "$value": "#FAEEF0"
+    }
+  },
+  "icon / dark / neutral": {
+    "neutral": {
+      "primary": {
+        "$type": "color",
+        "$value": "{neutral-000}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{neutral-500}"
+      }
+    }
+  },
+  "icon / light/ neutral": {
+    "neutral": {
+      "primary": {
+        "$type": "color",
+        "$value": "{neutral-999}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{neutral-500}"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "surface/light",
+      "surface/dark",
+      "text/light",
+      "text/dark",
+      "colors / core",
+      "colors / brand",
+      "icon / dark / neutral",
+      "icon / light/ neutral"
+    ]
+  }
+}
