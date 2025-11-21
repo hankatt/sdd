@@ -5,7 +5,7 @@
       "complementary": {
         "dark-alt": {
           "$type": "color",
-          "$value": "{purple-600}"
+          "$value": "{brand-alt1-600}"
         }
       }
     }
